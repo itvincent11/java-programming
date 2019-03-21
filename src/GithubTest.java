@@ -3,7 +3,8 @@ public class GithubTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("¿ø°İÀúÀå¼Ò¿¡ Çª½ÃÇÏ±â");
+		System.out.println("ê¹ƒí—ˆë¸Œì— í‘¸ì‹œí•˜ê¸°");
+		System.out.println("í‘¸ì‰¬ì„±ê³µ");
 	}
 
 }
